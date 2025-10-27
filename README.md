@@ -68,8 +68,10 @@ Experiência prática em projetos com **N8N**, criando integrações entre APIs,
 ---
 
 ## ⚡ Curiosidades & Interesses
-- Apaixonado por automação, games, design, gastronomia e desafios lógicos
-- Compartilho projetos, estudos e soluções para ajudar outros devs a evoluir
+- Entusiasta de automação de processos: sempre buscando formas de otimizar rotinas e integrar APIs usando N8N, Docker e servidores próprios
+- Amante de games e tecnologia, exploro mods, simuladores e boas estratégias para aprender e evoluir jogando
+- Curioso por design, interfaces intuitivas e tudo que envolve experiência do usuário, inclusive na construção de portfólios
+- Gosto de fazer deploy, configurar VPS, experimentar novas ferramentas e resolver bugs difíceis — quanto mais desafiador, melhor!
 
 ---
 
