@@ -55,8 +55,10 @@ Metodologias ágeis, integração de API, responsividade e testes básicos.
 ---
 
 ## 🌐 Redes Sociais
-- [[LinkedIn](https://linkedin.com/in/robsonamendonca)](https://linkedin.com/in/jardsonflorentino)
-- [Email](mailto:jardsonflorentino@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jardsonflorentino)
+[![Email](https://img.shields.io/badge/-Email-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jardsonflorentino@gmail.com)
+
 
 ---
 
