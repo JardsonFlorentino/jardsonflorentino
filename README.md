@@ -13,10 +13,37 @@ Sou desenvolvedor **Full Stack** em transição de carreira, apaixonado por tecn
 ---
 
 ## 💻 Tech Stack & Ferramentas
-- **Frontend:** React, HTML5, [CSS3](https://camo.githubusercontent.com/25e4fea0521d29bddd8536b44c93ae3d30b25f36ed5139f2099fc7dc58bd6349/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d7768697465), JavaScript (ES6+), TypeScript
-- **Backend:** Node.js, Express, APIs REST, PostgreSQL
-- **DevOps & Ferramentas:** Git, GitHub, Docker, VS Code, Figma, N8N (automação de workflows)
-- **Extras:** Metodologias ágeis, integração API, responsividade, testes básicos
+## 💻 Tech Stack & Ferramentas
+
+**Frontend:**  
+![React](https://img.shields.io/badge/react-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![APIs REST](https://img.shields.io/badge/api%20rest-005571?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**DevOps & Ferramentas:**  
+![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![N8N](https://img.shields.io/badge/n8n-EF7B4D?style=flat-square&logo=n8n&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Portainer](https://img.shields.io/badge/portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white)
+![Easypanel](https://img.shields.io/badge/easypanel-6EC7FA?style=flat-square)
+
+**Extras:**  
+Metodologias ágeis, integração de API, responsividade e testes básicos.
+
 
 ---
 
