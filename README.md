@@ -12,7 +12,7 @@ Sou desenvolvedor **Full Stack** em transição de carreira, apaixonado por tecn
 
 ---
 
-## 💻 Tech Stack & Ferramentas
+
 ## 💻 Tech Stack & Ferramentas
 
 **Frontend:**  
