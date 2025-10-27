@@ -74,7 +74,3 @@ Experiência prática em projetos com **N8N**, criando integrações entre APIs,
 - Gosto de fazer deploy, configurar VPS, experimentar novas ferramentas e resolver bugs difíceis — quanto mais desafiador, melhor!
 
 ---
-
-## 📊 GitHub Stats
-![JardsonFlorentino's GitHub stats](https://github-readme-stats.vercel.app/api?username=jardsonflorentino&show_icons=true&theme=radical)
-
