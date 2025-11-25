@@ -21,6 +21,7 @@ Sou desenvolvedor **Full Stack** em transição de carreira, apaixonado por tecn
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -28,6 +29,7 @@ Sou desenvolvedor **Full Stack** em transição de carreira, apaixonado por tecn
 ![APIs REST](https://img.shields.io/badge/api%20rest-005571?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-3982CE?style=flat-square&logo=prisma&logoColor=white)
 
 **DevOps & Ferramentas:**  
 ![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)
