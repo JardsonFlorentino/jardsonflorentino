@@ -5,13 +5,12 @@ Sou desenvolvedor **Full Stack** em transição de carreira, apaixonado por tecn
 ---
 
 ## 💡 Sobre mim
-- 8+ anos de experiência em projetos, análise técnica e liderança no setor imobiliário/construção civil
-- Formando Full Stack pelo DevClub
-- Buscando minha primeira oportunidade profissional como dev
+- 8+ anos de experiência em projetos, análise técnica e liderança no setor imobiliário/construção civil  
+- Formando Full Stack pelo DevClub  
+- Buscando minha primeira oportunidade profissional como dev  
 - Amo desafios, lógica, automação e compartilhar conhecimento!
 
 ---
-
 
 ## 💻 Tech Stack & Ferramentas
 
@@ -46,33 +45,34 @@ Sou desenvolvedor **Full Stack** em transição de carreira, apaixonado por tecn
 **Extras:**  
 Metodologias ágeis, integração de API, responsividade e testes básicos.
 
-
 ---
 
 ## 🚀 Portfólio
-- [DevBurger](https://github.com/jardsonflorentino/devburger-interface) – app completo, integração frontend/backend, responsivo
-- [CoinVerter](https://github.com/jardsonflorentino/CoinVerter) – conversor de moedas
+
+- [DevBurger](https://github.com/jardsonflorentino/devburger-interface) – app completo de hamburgueria, integração frontend/backend e layout responsivo  
+- [CoinVerter](https://github.com/jardsonflorentino/CoinVerter) – conversor de moedas com foco em usabilidade e consumo de APIs  
 - [Mais projetos aqui](https://github.com/jardsonflorentino?tab=repositories)
 
 ---
 
 ## 🌐 Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jardsonflorentino)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jardsonflorentino)  
 [![Email](https://img.shields.io/badge/-Email-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jardsonflorentino@gmail.com)
-
 
 ---
 
 ## 🛠️ Automação
+
 Experiência prática em projetos com **N8N**, criando integrações entre APIs, automações de tarefas e otimização de processos para aplicações web e fluxos corporativos.
 
 ---
 
 ## ⚡ Curiosidades & Interesses
-- Entusiasta de automação de processos: sempre buscando formas de otimizar rotinas e integrar APIs usando N8N, Docker e servidores próprios
-- Amante de games e tecnologia, exploro mods, simuladores e boas estratégias para aprender e evoluir jogando
-- Curioso por design, interfaces intuitivas e tudo que envolve experiência do usuário, inclusive na construção de portfólios
+
+- Entusiasta de automação de processos: sempre buscando formas de otimizar rotinas e integrar APIs usando N8N, Docker e servidores próprios  
+- Amante de games e tecnologia, exploro mods, simuladores e estratégias para aprender e evoluir jogando  
+- Curioso por design, interfaces intuitivas e tudo que envolve experiência do usuário, inclusive na construção de portfólios  
 - Gosto de fazer deploy, configurar VPS, experimentar novas ferramentas e resolver bugs difíceis — quanto mais desafiador, melhor!
 
 ---
