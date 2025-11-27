@@ -65,9 +65,9 @@ Metodologias ágeis, integração de API, responsividade e testes básicos.
 ## 🛠️ Automação
 
 Experiência prática com N8N, criando:
-.  Integrações entre APIs para sincronizar dados entre sistemas.
-. Automações de tarefas repetitivas ligadas a aplicações web e fluxos de negócio.
-. Pipelines que reduzem trabalho manual e aumentam consistência em processos.
+- Integrações entre APIs para sincronizar dados entre sistemas.
+-  Automações de tarefas repetitivas ligadas a aplicações web e fluxos de negócio.
+- Pipelines que reduzem trabalho manual e aumentam consistência em processos.
 
 ---
 
