@@ -49,7 +49,7 @@ Metodologias ágeis, integração de API, responsividade e testes básicos.
 
 ## 🚀 Portfólio
 
-- [DevBurger](https://github.com/jardsonflorentino/devburger-interface) – app completo de hamburgueria, integração frontend/backend e layout responsivo  
+-  [DevBurger](https://github.com/jardsonflorentino/devburger-interface) – app completo de hamburgueria, integração frontend/backend e layout responsivo  
 - [CoinVerter](https://github.com/jardsonflorentino/CoinVerter) – conversor de moedas com foco em usabilidade e consumo de APIs  
 - [Mais projetos aqui](https://github.com/jardsonflorentino?tab=repositories)
 
@@ -64,7 +64,10 @@ Metodologias ágeis, integração de API, responsividade e testes básicos.
 
 ## 🛠️ Automação
 
-Experiência prática em projetos com **N8N**, criando integrações entre APIs, automações de tarefas e otimização de processos para aplicações web e fluxos corporativos.
+Experiência prática com N8N, criando:
+.  Integrações entre APIs para sincronizar dados entre sistemas.
+. Automações de tarefas repetitivas ligadas a aplicações web e fluxos de negócio.
+. Pipelines que reduzem trabalho manual e aumentam consistência em processos.
 
 ---
 
