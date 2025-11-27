@@ -1,14 +1,14 @@
 # 👋 Olá! Eu sou Jardson Florentino
 
-Sou desenvolvedor **Full Stack** em transição de carreira, apaixonado por tecnologia, automação, interfaces responsivas e soluções completas com **JavaScript**, **Node.js**, **React**, **TypeScript** e experiência real com **N8N** para automações inteligentes.
+Sou desenvolvedor Full Stack, apaixonado por tecnologia, automação, interfaces responsivas e soluções completas com JavaScript, Node.js, React, TypeScript e experiência prática com N8N para automações inteligentes.
 
 ---
 
 ## 💡 Sobre mim
-- 8+ anos de experiência em projetos, análise técnica e liderança no setor imobiliário/construção civil  
-- Formando Full Stack pelo DevClub  
-- Buscando minha primeira oportunidade profissional como dev  
-- Amo desafios, lógica, automação e compartilhar conhecimento!
+- 8+ anos em projetos, análise técnica e liderança no setor imobiliário/construção civil, agora aplicando essa experiência em tecnologia.​
+- Formação Full Stack pelo DevClub, com foco em aplicações web modernas (SPA, APIs REST, integrações frontend/backend).​
+- Buscando oportunidades como Desenvolvedor Full Stack para criar soluções que gerem impacto real em negócios e pequenos empreendimentos.​
+- Curto desafios, lógica, automação de processos e compartilhar conhecimento enquanto evoluo como dev.​
 
 ---
 
