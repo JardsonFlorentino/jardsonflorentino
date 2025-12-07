@@ -51,7 +51,7 @@ Metodologias ágeis, integração de API, responsividade e testes básicos.
 
 -  [DevBurger](https://github.com/jardsonflorentino/devburger-interface) – app completo de hamburgueria, integração frontend/backend e layout responsivo  
 - [CoinVerter](https://github.com/jardsonflorentino/CoinVerter) – conversor de moedas com foco em usabilidade e consumo de APIs  
-- [Mais projetos aqui](https://github.com/jardsonflorentino?tab=repositories)
+- [Mais projetos aqui](https://www.jardsonflorentino.com.br/)
 
 ---
 
