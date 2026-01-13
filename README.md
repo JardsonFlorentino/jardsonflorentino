@@ -1,18 +1,32 @@
 # 👋 Olá! Eu sou Jardson Florentino
 
-Sou desenvolvedor Full Stack, apaixonado por tecnologia, automação, interfaces responsivas e soluções completas com JavaScript, Node.js, React, TypeScript e experiência prática com N8N para automações inteligentes.
+Sou Desenvolvedor Full Stack focado na construção de aplicações web completas, organizadas e orientadas a regras de negócio. Atuo em projetos reais utilizando o ecossistema JavaScript/TypeScript, com integração entre front-end, back-end e automação de processos.
+
+Tenho experiência prática com React, Next.js, Node.js e bancos de dados relacionais e NoSQL, além de automações com n8n aplicadas a fluxos de negócio reais.
 
 ---
 
 ## 💡 Sobre mim
-- 8+ anos em projetos, análise técnica e liderança no setor imobiliário/construção civil, agora aplicando essa experiência em tecnologia.​
-- Formação Full Stack pelo DevClub, com foco em aplicações web modernas (SPA, APIs REST, integrações frontend/backend).​
-- Buscando oportunidades como Desenvolvedor Full Stack para criar soluções que gerem impacto real em negócios e pequenos empreendimentos.​
-- Curto desafios, lógica, automação de processos e compartilhar conhecimento enquanto evoluo como dev.​
+
+- Atuação prática como Desenvolvedor Full Stack em projetos reais, incluindo sites institucionais, e-commerce e sistemas personalizados.
+- Atualmente desenvolvendo um e-commerce e uma aplicação sob medida para uma oficina mecânica náutica, lidando com regras de negócio, organização de fluxos e integração entre sistemas.
+- Mais de 8 anos de experiência em gestão e execução de projetos nos setores imobiliário e construção civil, trazendo maturidade profissional, organização e foco em entrega para o desenvolvimento de software.
+- Formação Full Stack pelo DevClub, com foco em aplicações web modernas (SPA, APIs REST e integração front-end/back-end).
 
 ---
 
-## 💻 Tech Stack & Ferramentas
+## 🚀 Projetos em Destaque
+
+
+
+
+### 🌐 Sites Institucionais
+Desenvolvimento de sites institucionais responsivos, com foco em performance, organização de conteúdo e boa experiência do usuário.
+
+
+---
+
+## 💻 Tech Stack
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/react-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -42,38 +56,49 @@ Sou desenvolvedor Full Stack, apaixonado por tecnologia, automação, interfaces
 ![Portainer](https://img.shields.io/badge/portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white)
 ![Easypanel](https://img.shields.io/badge/easypanel-6EC7FA?style=flat-square)
 
-**Extras:**  
-Metodologias ágeis, integração de API, responsividade e testes básicos.
+### Práticas
+- Metodologias Ágeis  
+- Integração de APIs  
+- Responsividade  
+- Testes básicos  
 
 ---
 
-## 🚀 Portfólio
+## 🛠️ Automação de Processos
 
-Aqui você encontra uma seleção dos projetos mais relevantes, com foco em aplicações modernas, rápidas e escaláveis, incluindo e-commerces, dashboards e sistemas completos em produção. [Acesse meu portfólio completo](https://www.jardsonflorentino.com.br) para ver os projetos em detalhe.
+Experiência prática com **n8n**, aplicada à automação de fluxos de negócio, incluindo:
 
----
-
-## 🌐 Redes Sociais
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jardsonflorentino)  
-[![Email](https://img.shields.io/badge/-Email-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jardsonflorentino@gmail.com)
+- Integração entre APIs para sincronização de dados  
+- Automação de tarefas repetitivas ligadas a aplicações web  
+- Criação de pipelines que reduzem trabalho manual e aumentam a consistência dos processos  
 
 ---
 
-## 🛠️ Automação
+## 🌐 Portfólio
 
-Experiência prática com N8N, criando:
-- Integrações entre APIs para sincronizar dados entre sistemas.
--  Automações de tarefas repetitivas ligadas a aplicações web e fluxos de negócio.
-- Pipelines que reduzem trabalho manual e aumentam consistência em processos.
+🔗 https://www.jardsonflorentino.com.br  
+
+No portfólio você encontra projetos detalhados, com descrição de problema, solução e tecnologias utilizadas.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/jardsonflorentino/  
+- E-mail: jardsonflorentino@gmail.com  
 
 ---
 
 ## ⚡ Curiosidades & Interesses
 
-- Entusiasta de automação de processos: sempre buscando formas de otimizar rotinas e integrar APIs usando N8N, Docker e servidores próprios  
-- Amante de games e tecnologia, exploro mods, simuladores e estratégias para aprender e evoluir jogando  
-- Curioso por design, interfaces intuitivas e tudo que envolve experiência do usuário, inclusive na construção de portfólios  
-- Gosto de fazer deploy, configurar VPS, experimentar novas ferramentas e resolver bugs difíceis — quanto mais desafiador, melhor!
+- Entusiasta de automação e integração de sistemas  
+- Interesse por UX, design de interfaces e organização visual  
+- Gosto por deploy, configuração de VPS e infraestrutura  
+- Resolver bugs complexos e desafios técnicos faz parte do que me motiva  
 
 ---
+
+⭐ Se algum projeto te interessar, fique à vontade para explorar os repositórios ou entrar em contato.
+​
+
+
