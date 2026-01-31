@@ -18,12 +18,30 @@ Tenho experiência prática com React, Next.js, Node.js e bancos de dados relaci
 
 ## 🚀 Projetos em Destaque
 
+### 🛥️ Sistema de Gestão - Oficina Náutica (Entrgue ao cliente)
+Aplicação personalizada para gerenciamento de ordens de serviço e estoque de peças náuticas.
+- **Tech Stack:** React, Node.js, PostgreSQL e Integração via n8n.
+- **Diferencial:** Implementação de regras de negócio complexas para fluxos de manutenção e automação de notificações.
 
 
+### 🛒 E-commerce Full Stack (Em desenvolvimento)
+Plataforma completa de vendas com checkout e painel administrativo.
+- **Tech Stack:** Next.js, TypeScript e Prisma.
+- **Cloud:** Banco de Dados hospedado via **Microsoft Azure**.
 
-### 🌐 Sites Institucionais
-Desenvolvimento de sites institucionais responsivos, com foco em performance, organização de conteúdo e boa experiência do usuário.
 
+### 🌐 Sites Institucionais & Landing Pages
+Desenvolvimento de ecossistemas digitais focados em performance, SEO técnico e experiência do usuário (UX).
+
+* **Clínica Vellys**: Site institucional focado em Estética Avançada (Brasília - DF). Implementação de arquitetura responsiva e otimização de conversão para agendamentos.
+    * 🔗 [Visitar Projeto](https://www.clinicavellys.com.br/)
+* **Stephane Lima**: Landing Page de alta conversão para Nutricionista. Foco em autoridade digital, tempo de carregamento e acessibilidade para pacientes.
+    * 🔗 [Visitar Projeto](https://www.stephanelimanutricionista.com.br/)
+
+**Diferenciais Técnicos:**
+- **Performance:** Notas > 90 no Google Lighthouse (Core Web Vitals).
+- **SEO:** Estruturação de dados e semântica HTML para melhor ranqueamento orgânico.
+- **Infra:** Deploy e configuração de domínio utilizando boas práticas de CI/CD.
 
 ---
 
