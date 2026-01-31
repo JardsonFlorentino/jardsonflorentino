@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Jardson Florentino
 
-Sou Desenvolvedor Full Stack focado na construção de aplicações web completas, organizadas e orientadas a regras de negócio. Atuo em projetos reais utilizando o ecossistema JavaScript/TypeScript, com integração entre front-end, back-end e automação de processos.
+Sou Desenvolvedor Full Stack e **Graduando em Engenharia de Software**, focado na construção de aplicações web completas, organizadas e orientadas a regras de negócio. Atuo em projetos reais utilizando o ecossistema JavaScript/TypeScript, com integração entre front-end, back-end e automação de processos.
 
 Tenho experiência prática com React, Next.js, Node.js e bancos de dados relacionais e NoSQL, além de automações com n8n aplicadas a fluxos de negócio reais.
 
@@ -8,6 +8,7 @@ Tenho experiência prática com React, Next.js, Node.js e bancos de dados relaci
 
 ## 💡 Sobre mim
 
+- **Engenharia de Software (Bacharelado)** em andamento pela UniFatecie.
 - Atuação prática como Desenvolvedor Full Stack em projetos reais, incluindo sites institucionais, e-commerce e sistemas personalizados.
 - Atualmente desenvolvendo um e-commerce e uma aplicação sob medida para uma oficina mecânica náutica, lidando com regras de negócio, organização de fluxos e integração entre sistemas.
 - Mais de 8 anos de experiência em gestão e execução de projetos nos setores imobiliário e construção civil, trazendo maturidade profissional, organização e foco em entrega para o desenvolvimento de software.
@@ -27,6 +28,8 @@ Desenvolvimento de sites institucionais responsivos, com foco em performance, or
 ---
 
 ## 💻 Tech Stack
+
+![GitHub Student Developer Pack](https://img.shields.io/badge/GitHub-Student%20Developer%20Pack-2dba4e?style=flat-square&logo=github)
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/react-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -55,6 +58,7 @@ Desenvolvimento de sites institucionais responsivos, com foco em performance, or
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Portainer](https://img.shields.io/badge/portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white)
 ![Easypanel](https://img.shields.io/badge/easypanel-6EC7FA?style=flat-square)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ### Práticas
 - Metodologias Ágeis  
