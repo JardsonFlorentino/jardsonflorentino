@@ -18,7 +18,7 @@ Tenho experiência prática com React, Next.js, Node.js e bancos de dados relaci
 
 ## 🚀 Projetos em Destaque
 
-### 🛥️ Sistema de Gestão - Oficina Náutica (Entrgue ao cliente)
+### 🛥️ Sistema de Gestão - Oficina Náutica (Entregue ao cliente)
 Aplicação personalizada para gerenciamento de ordens de serviço e estoque de peças náuticas.
 - **Tech Stack:** React, Node.js, PostgreSQL e Integração via n8n.
 - **Diferencial:** Implementação de regras de negócio complexas para fluxos de manutenção e automação de notificações.
@@ -106,8 +106,8 @@ No portfólio você encontra projetos detalhados, com descrição de problema, s
 
 ## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/jardsonflorentino/  
-- E-mail: jardsonflorentino@gmail.com  
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white) [in/jardsonflorentino](https://www.linkedin.com/in/jardsonflorentino/)
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) jardsonflorentino@gmail.com
 
 ---
 
