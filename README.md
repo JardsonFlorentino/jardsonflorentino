@@ -57,6 +57,10 @@ Desenvolvimento de ecossistemas digitais focados em performance, SEO técnico e 
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
+**Animation:** 
+![FRAMER MOTION]([https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white](https://camo.githubusercontent.com/f67f53636cec6c6b450a09f44051f9cfc73dd79f064e491e4ddb4aaa2afd8844/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4672616d65722532304d6f74696f6e2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6672616d6572266c6f676f436f6c6f723d7768697465))
+![GSAP]([https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white](https://camo.githubusercontent.com/12040c7992c4df76cea13f5e71c37a7e67852c6b2dc74eee4b59bd79ca8be884/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f475341502d3838434530323f7374796c653d666f722d7468652d6261646765266c6f676f3d677265656e736f636b266c6f676f436f6c6f723d7768697465))
+
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-404D59?style=flat-square&logo=express&logoColor=white)
